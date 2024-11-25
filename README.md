@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dookie21.
 - 👀 I’m interested in Web Developing.
-- 🌱 I’m currently learning HTML, CSS, and Javascript.
+- 🌱 I’m currently learning HTML, CSS, Javascript, and other frameworks.
 - 💞️ I’m looking to collaborate with people with the same interest as mine.
-- 📫 How to reach me? My IG username is @ughweeee, we can message there :)
+- 📫 How to reach me? My IG username is @ughweeee, we can fuse there :)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a quitter but I do love to struggle.
 
